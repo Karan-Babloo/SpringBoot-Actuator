@@ -2,7 +2,7 @@
 A Basic Restfull Webservice With SpringBoot Actuator
 
 
-Make sure You add the following K/V pair to the applpication.properties file in order to expose all the endpoints given by the Spring actuator
+Make sure You add the following K/V pair to the **applpication.properties** file in order to expose all the endpoints given by the Spring actuator
 
 ```
 management.endpoints.web.exposure.include=*
